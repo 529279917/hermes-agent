@@ -26,8 +26,8 @@ $ErrorActionPreference = "Stop"
 # Configuration
 # ============================================================================
 
-$RepoUrlSsh = "git@github.com:NousResearch/hermes-agent.git"
-$RepoUrlHttps = "https://github.com/NousResearch/hermes-agent.git"
+$RepoUrlSsh = "git@gitee.com:MiniMoree/hermes-agent.git"
+$RepoUrlHttps = "https://gitee.com/MiniMoree/hermes-agent.git"
 $PythonVersion = "3.11"
 $NodeVersion = "22"
 
